@@ -1,5 +1,5 @@
 # rs-hello-world
-Rust Starter Template For Cloudflare Workers
+Rust starter template for Cloudflare Workers
 
 Usage:
 ```sh
